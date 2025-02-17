@@ -311,7 +311,7 @@ export default function ReactRecorder() {
           <li>If an audio is not recorded properly, then delete it and click on the corresponding button to return to that sentence.</li>
           <li>Avoid skipping sentences at all times. Make sure to re-record any sentence that wasn’t captured properly.</li>
           <li>After recording all the sentences in a particular language, download all the files as a ZIP folder.</li>
-          <li>In end, combine all five ZIP files into a single consolidated .ZIP file and submit it in the 'Submit Recording' tab.</li>
+          <li>In end, combine all five ZIP files into a single consolidated .ZIP file and submit it in the 'Submit Recordings' tab.</li>
         </ul>
         <p className="text-sm font-bold text-gray-700 mt-2">
           Note: Navigating back will remove all recordings after the selected sentence.

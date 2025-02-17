@@ -306,6 +306,7 @@ export default function ReactRecorder() {
         ))}
         <ul className="list-disc pl-4 text-sm font-medium text-gray-700 mt-2">
           <li>Speak clearly and loudly to ensure the audio is recorded properly.</li>
+          <li>Try test runs with 2 or 3 sentences to ensure your mic and audio are recording clearly.</li>
           <li>Do not skip any sentences during recording. If needed, re-record them carefully.</li>
           <li>If an audio is not recorded properly, then delete it and click on the corresponding button to return to that sentence.</li>
           <li>Avoid skipping sentences at all times. Make sure to re-record any sentence that wasn’t captured properly.</li>

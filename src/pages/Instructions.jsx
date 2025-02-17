@@ -52,7 +52,7 @@ const InstructionPage = () => {
                             className="mr-2"
                         />
                         <label htmlFor="agreement" className="text-sm font-bold text-gray-800">
-                            I agree to the terms and conditions.
+                            I have understood all the instructions.
                         </label>
                         <button onClick={handleNext} className="ml-4 px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-400">
                             Continue

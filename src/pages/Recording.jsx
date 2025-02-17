@@ -72,7 +72,7 @@ export default function ReactRecorder() {
       "18. What's the minimum balance requirement for a savings account here?",
     ],
     hindi: [
-      "1. मैं एक नया बचत खाता खोलना चाहता/चाहती हूं.",
+      "1. मैं एक नया बचत खाता खोलना चाहता हूं.",
       "2. मुझे यह चेक अपने खाते में जमा करना है।",
       "3. कृपया इस जमा पर्ची को भरें और मैं इसे आपके लिए प्रोसेस कर दूंगा।",
       "4. मैं अपना पिन भूल गया। क्या आप इसे रीसेट करने में मेरी मदद कर सकते हैं?",
@@ -113,7 +113,7 @@ export default function ReactRecorder() {
     ],
 
     mixed: [
-      "1. मैं एक नया savings account खोलना चाहता/चाहती हूं",
+      "1. मैं एक नया savings account खोलना चाहता हूं",
       "2. मुझे यह cheque अपने account में जमा करना है।",
       "3. कृपया इस deposit slip को भरें और मैं इसे आपके लिए process कर दूंगा।",
       "4. मैं अपना PIN भूल गया। क्या आप इसे reset करने में मेरी help कर सकते हैं?",

@@ -137,7 +137,7 @@ export default function ReactRecorder() {
       "1.	ਮੈਂ ਇੱਕ ਨਵਾਂ savings account ਖੋਲ੍ਹਣਾ ਚਾਹਾਂਗਾ।",
       "2. ਮੈਨੂੰ ਇਹ cheque ਆਪਣੇ account ਵਿੱਚ deposit ਕਰਨਾ ਹੈ।",
       "3.	ਕਿਰਪਾ ਕਰਕੇ ਇਸ deposit slip ਨੂੰ ਭਰੋ ਅਤੇ ਮੈਂ ਤੁਹਾਡੇ ਲਈ process ਕਰਾਂਗਾ।",
-      "4. ਮੈਂ ਆਪਣਾ PIN ਭੁੱਲ ਗਿਆ ਹਾਂ। ਕੀ ਤੁਸੀਂ ਇਸਨੂੰ reset ਕਰਨ ਵਿੱਚ ਮੇਰੀ help ਕਰ ਸਕਦੇ ਹੋ?ਮੈਂ ਆਪਣਾ PIN ਭੁੱਲ ਗਿਆ ਹਾਂ। ਕੀ ਤੁਸੀਂ ਇਸਨੂੰ reset ਕਰਨ ਵਿੱਚ ਮੇਰੀ help ਕਰ ਸਕਦੇ ਹੋ?",
+      "4. ਮੈਂ ਆਪਣਾ PIN ਭੁੱਲ ਗਿਆ ਹਾਂ। ਕੀ ਤੁਸੀਂ ਇਸਨੂੰ reset ਕਰਨ ਵਿੱਚ ਮੇਰੀ help ਕਰ ਸਕਦੇ ਹੋ?",
       "5. ਮੈਂ ਤੁਹਾਡੇ ਲਈ ਤੁਹਾਡਾ PIN reset ਕਰ ਦਵਾਂਗਾ। ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਤੁਹਾਡੀ identification card ਹੈ",
       "6. ਮੈਂ car ਲਈ loan ਲੈਣ ਵਿੱਚ interested ਹਾਂ।",
       "7. ਆਉ ਤੁਹਾਡੇ loan options ਅਤੇ documentation 'ਤੇ ਚਰਚਾ ਕਰੀਏ।",
